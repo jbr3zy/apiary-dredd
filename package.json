@@ -1,0 +1,16 @@
+{
+  "name": "dredd-test",
+  "version": "1.0.0",
+  "description": "Playing around with Apiary Dredd",
+  "main": "index.js",
+  "dependencies": {
+    "aglio": "~1.16.1",
+    "dredd": "~0.3.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin",
+  "license": "ISC"
+}
